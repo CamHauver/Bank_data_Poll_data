@@ -1,6 +1,8 @@
 # Bank_data_Poll_data
 Two separate python scripts that analyze 1) bank financial data and 2) election poll data
 
+#Original code source: Data Analytics course instructor, Andrew Hoang's, speed run Zoom recording for Module 3 Challenge
+
 # Bank_script
 # PyBank: Bank data
 #Dependencies
